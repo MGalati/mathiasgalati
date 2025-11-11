@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This book chapter reflects on my journey learning on scRNA seq analyses'
-date: 2025
+date: 2025-05-30
 venue: 'Next-Generation Sequencing: Standard Operating Procedures and Applications (1st ed.)'
 slidesurl: '[https://academicpages.github.io/files/slides1.pdf](https://doi.org/10.1201/9781003354062-7)'
 paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1201/9781003354062-7)'
